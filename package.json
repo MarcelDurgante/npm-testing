@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarcelDurgante/npm-testing/issues"
   },
-  "homepage": "https://github.com/MarcelDurgante/npm-testing#readme"
+  "homepage": "https://github.com/MarcelDurgante/npm-testing#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
